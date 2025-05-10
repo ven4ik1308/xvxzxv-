@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 10px 20px 4px rgb(188, 191, 221);
+
+}
+
+a {
+    text-decoration: none;
+}
+
+crs {
+    width: 20px;
+}
+
+body {
+    background-color: rgb(143, 82, 199);
+}  
+
+ nav a {
+    margin: 10px;
+    font-size: 16px;
+    text-decoration: none;
+    color: navy;
+    border: 3px solid #FFF5EE;
+    border-radius: 10px;
+    background-color: #FFF5EE;
+    
+ }
+
+select {
+    margin: 1px;
+    padding: 1px;
+    border: 2px solid rgb(11, 40, 204);
+    font-size: 20px;
+
+}
+
+section option {
+    color: rgb(88, 0, 255);
+
+}
